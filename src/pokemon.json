@@ -2,22 +2,26 @@
   {
     "id": 1,
     "name": "Bulbasaur",
-    "image": "https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png"
+    "image": "https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png",
+    "clicked": "false"
   },
   {
     "id": 2,
     "name": "Ivysaur",
-    "image": "https://cdn.bulbagarden.net/upload/7/73/002Ivysaur.png"
+    "image": "https://cdn.bulbagarden.net/upload/7/73/002Ivysaur.png",
+    "clicked": "false"
   },
   {
     "id": 3,
     "name": "Venosaur",
-    "image": "https://cdn.bulbagarden.net/upload/a/ae/003Venusaur.png"
+    "image": "https://cdn.bulbagarden.net/upload/a/ae/003Venusaur.png",
+    "clicked": "false"
   },
   {
     "id": 4,
     "name": "Charmander",
-    "image": "https://cdn.bulbagarden.net/upload/7/73/004Charmander.png"
+    "image": "https://cdn.bulbagarden.net/upload/7/73/004Charmander.png",
+    "clicked": "false"
   }
   
 ]

@@ -9,13 +9,14 @@ import "./style.css";
 function PokemonCard(props) {
  
   return(
-    <span onClick={() => console.log("something")}>
+   
+    <div className="characterImg" onClick={() => props.handleCardClick(props.id)}>
     <div className="card">
       <div className="img-container col-2 pokemon-image">
         <img alt={props.name} src={props.image} />
       </div>
     </div>
-    </span>
+    </div>
   )
 }
 
