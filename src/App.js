@@ -4,7 +4,6 @@ import './App.css';
 import Wrapper from "./components/Wrapper"
 import pokemonData from './pokemon.json'
 
-//set intial states
 class App extends Component {
   state = {
     pokemonData: [...pokemonData],
@@ -32,7 +31,6 @@ class App extends Component {
 
     const pokemonData = [...this.state.pokemonData];
 
-    //
     pokemonData.forEach(pokemon => {
       if (pokemon.id === cardId){
         if(!pokemon.clicked){
@@ -45,18 +43,14 @@ class App extends Component {
     isCorrect ? this.rightChoice(pokemonData) : this.wrongChoice(pokemonData)
   };
 
-
-  //what happens when an image is clicked for the first time
   rightChoice = pokemonData => {
     const randomize = pokemonData.sort(() => 0.5 - Math.random());
     const currentScore = this.state.currentScore + 1;
     var hiScore = this.state.hiScore;
 
-    //edit highscore depending on current score
     if (currentScore > hiScore){
       hiScore = currentScore;
     }
-    // 
     this.setState({
       pokemonData: randomize,
       currentScore: currentScore,
