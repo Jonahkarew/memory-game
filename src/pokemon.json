@@ -54,6 +54,371 @@
     "name": "Blastoise",
     "image": "https://cdn.bulbagarden.net/upload/0/02/009Blastoise.png",
     "clicked": "false"
-  }
-  
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "image": "https://cdn.bulbagarden.net/upload/5/5d/010Caterpie.png",
+    "clicked": "false"
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "image": "https://cdn.bulbagarden.net/upload/c/cd/011Metapod.png",
+    "clicked": "false"
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "image": "https://cdn.bulbagarden.net/upload/d/d1/012Butterfree.png",
+    "clicked": "false"
+  },
+  {
+    "id": 13,
+    "name": "Weedle",
+    "image": "https://cdn.bulbagarden.net/upload/d/df/013Weedle.png",
+    "clicked": "false"
+  },
+  {
+    "id": 14,
+    "name": "Kakuna",
+    "image": "https://cdn.bulbagarden.net/upload/f/f0/014Kakuna.png",
+    "clicked": "false"
+  },
+  {
+    "id": 15,
+    "name": "Beedrill",
+    "image": "https://cdn.bulbagarden.net/upload/6/61/015Beedrill.png",
+    "clicked": "false"
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "image": "https://cdn.bulbagarden.net/upload/5/55/016Pidgey.png",
+    "clicked": "false"
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "image": "https://cdn.bulbagarden.net/upload/7/7a/017Pidgeotto.png",
+    "clicked": "false"
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "image": "https://cdn.bulbagarden.net/upload/5/57/018Pidgeot.png",
+    "clicked": "false"
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "image": "https://cdn.bulbagarden.net/upload/4/46/019Rattata.png",
+    "clicked": "false"
+  },
+  {
+    "id": 20,
+    "name": "Raticate",
+    "image": "https://cdn.bulbagarden.net/upload/f/f4/020Raticate.png",
+    "clicked": "false"
+  },
+  {
+    "id": 21,
+    "name": "Spearow",
+    "image": "https://cdn.bulbagarden.net/upload/8/8b/021Spearow.png",
+    "clicked": "false"
+  },
+  {
+    "id": 22,
+    "name": "Fearow",
+    "image": "https://cdn.bulbagarden.net/upload/a/a0/022Fearow.png",
+    "clicked": "false"
+  },
+  {
+    "id": 23,
+    "name": "Ekans",
+    "image": "https://cdn.bulbagarden.net/upload/f/fa/023Ekans.png",
+    "clicked": "false"
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "image": "https://cdn.bulbagarden.net/upload/c/cd/024Arbok.png",
+    "clicked": "false"
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "image": "https://cdn.bulbagarden.net/upload/0/0d/025Pikachu.png",
+    "clicked": "false"
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "image": "https://cdn.bulbagarden.net/upload/8/88/026Raichu.png",
+    "clicked": "false"
+  },
+  {
+    "id": 27,
+    "name": "Sandshrew",
+    "image": "https://cdn.bulbagarden.net/upload/9/9e/027Sandshrew.png",
+    "clicked": "false"
+  },
+  {
+    "id": 28,
+    "name": "Sandslash",
+    "image": "https://cdn.bulbagarden.net/upload/0/0b/028Sandslash.png",
+    "clicked": "false"
+  },
+  {
+    "id": 29,
+    "name": "Nidoran♀",
+    "image": "https://cdn.bulbagarden.net/upload/8/81/029Nidoran.png",
+    "clicked": "false"
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "image": "https://cdn.bulbagarden.net/upload/c/cd/030Nidorina.png",
+    "clicked": "false"
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "image": "https://cdn.bulbagarden.net/upload/b/bf/031Nidoqueen.png",
+    "clicked": "false"
+  },
+  {
+    "id": 32,
+    "name": "Nidoran♂",
+    "image": "https://cdn.bulbagarden.net/upload/4/4a/032Nidoran.png",
+    "clicked": "false"
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "image": "https://cdn.bulbagarden.net/upload/9/9f/033Nidorino.png",
+    "clicked": "false"
+  },
+  {
+    "id": 34,
+    "name": "Nidoking",
+    "image": "https://cdn.bulbagarden.net/upload/c/c6/034Nidoking.png",
+    "clicked": "false"
+  },
+  {
+    "id": 35,
+    "name": "Clefairy",
+    "image": "https://cdn.bulbagarden.net/upload/f/f4/035Clefairy.png",
+    "clicked": "false"
+  },
+  {
+    "id": 36,
+    "name": "Clefable",
+    "image": "https://bulbapedia.bulbagarden.net/wiki/File:036Clefable.png",
+    "clicked": "false"
+  },
+  {
+    "id": 37,
+    "name": "Vulpix",
+    "image": "https://bulbapedia.bulbagarden.net/wiki/File:037Vulpix.png",
+    "clicked": "false"
+  },
+  {
+    "id": 38,
+    "name": "Ninetails",
+    "image": "https://cdn.bulbagarden.net/upload/0/05/038Ninetales.png",
+    "clicked": "false"
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff",
+    "image": "https://cdn.bulbagarden.net/upload/3/3e/039Jigglypuff.png",
+    "clicked": "false"
+  },
+  {
+    "id": 40,
+    "name": "Wigglytuff",
+    "image": "https://cdn.bulbagarden.net/upload/9/92/040Wigglytuff.png",
+    "clicked": "false"
+  },
+  {
+    "id": 41,
+    "name": "Zubat",
+    "image": "https://cdn.bulbagarden.net/upload/d/da/041Zubat.png",
+    "clicked": "false"
+  },
+  {
+    "id": 42,
+    "name": "Golbat",
+    "image": "https://cdn.bulbagarden.net/upload/0/0c/042Golbat.png",
+    "clicked": "false"
+  },
+  {
+    "id": 43,
+    "name": "Oddish",
+    "image": "https://cdn.bulbagarden.net/upload/4/43/043Oddish.png",
+    "clicked": "false"
+  },
+  {
+    "id": 44,
+    "name": "Gloom",
+    "image": "https://cdn.bulbagarden.net/upload/2/2a/044Gloom.png",
+    "clicked": "false"
+  },
+  {
+    "id": 45,
+    "name": "Vileplume",
+    "image": "https://cdn.bulbagarden.net/upload/6/6a/045Vileplume.png",
+    "clicked": "false"
+  },
+  {
+    "id": 46,
+    "name": "Paras",
+    "image": "https://cdn.bulbagarden.net/upload/d/d4/046Paras.png",
+    "clicked": "false"
+  },
+  {
+    "id": 47,
+    "name": "Parasect",
+    "image": "https://cdn.bulbagarden.net/upload/8/80/047Parasect.png",
+    "clicked": "false"
+  },
+  {
+    "id": 48,
+    "name": "Venonat",
+    "image": "https://cdn.bulbagarden.net/upload/a/ad/048Venonat.png",
+    "clicked": "false"
+  },
+  {
+    "id": 49,
+    "name": "Venomoth",
+    "image": "https://cdn.bulbagarden.net/upload/d/d3/049Venomoth.png",
+    "clicked": "false"
+  },
+  {
+    "id": 50,
+    "name": "Diglett",
+    "image": "https://cdn.bulbagarden.net/upload/3/31/050Diglett.png",
+    "clicked": "false"
+  },
+  {
+    "id": 51,
+    "name": "Dugtrio",
+    "image": "https://cdn.bulbagarden.net/upload/e/e5/051Dugtrio.png",
+    "clicked": "false"
+  },
+  {
+    "id": 52,
+    "name": "Meowth",
+    "image": "https://cdn.bulbagarden.net/upload/d/d6/052Meowth.png",
+    "clicked": "false"
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "image": "https://cdn.bulbagarden.net/upload/1/13/053Persian.png",
+    "clicked": "false"
+  },
+  {
+    "id": 54,
+    "name": "Psyduck",
+    "image": "https://cdn.bulbagarden.net/upload/5/53/054Psyduck.png",
+    "clicked": "false"
+  },
+  {
+    "id": 55,
+    "name": "Golduck",
+    "image": "https://cdn.bulbagarden.net/upload/f/fe/055Golduck.png",
+    "clicked": "false"
+  },
+  {
+    "id": 56,
+    "name": "Mankey",
+    "image": "https://cdn.bulbagarden.net/upload/4/41/056Mankey.png",
+    "clicked": "false"
+  },
+  {
+    "id": 57,
+    "name": "Primeape",
+    "image": "https://cdn.bulbagarden.net/upload/9/9a/057Primeape.png",
+    "clicked": "false"
+  },
+  {
+    "id": 58,
+    "name": "Growlithe",
+    "image": "https://cdn.bulbagarden.net/upload/3/3d/058Growlithe.png",
+    "clicked": "false"
+  },
+  {
+    "id": 59,
+    "name": "Arcanine",
+    "image": "https://cdn.bulbagarden.net/upload/b/b8/059Arcanine.png",
+    "clicked": "false"
+  },
+  {
+    "id": 60,
+    "name": "Poliwag",
+    "image": "https://cdn.bulbagarden.net/upload/4/49/060Poliwag.png",
+    "clicked": "false"
+  },
+  {
+    "id": 61,
+    "name": "Poliwhirl",
+    "image": "https://cdn.bulbagarden.net/upload/a/a9/061Poliwhirl.png",
+    "clicked": "false"
+  },
+  {
+    "id": 62,
+    "name": "Poliwrath",
+    "image": "https://cdn.bulbagarden.net/upload/2/2d/062Poliwrath.png",
+    "clicked": "false"
+  },
+  {
+    "id": 63,
+    "name": "",
+    "image": "",
+    "clicked": "false"
+  },
+  {
+    "id": 64,
+    "name": "",
+    "image": "",
+    "clicked": "false"
+  },
+  {
+    "id": 65,
+    "name": "",
+    "image": "",
+    "clicked": "false"
+  },
+  {
+    "id": 66,
+    "name": "",
+    "image": "",
+    "clicked": "false"
+  },
+  {
+    "id": 67,
+    "name": "",
+    "image": "",
+    "clicked": "false"
+  },
+  {
+    "id": 68,
+    "name": "",
+    "image": "",
+    "clicked": "false"
+  },
+  {
+    "id": 69,
+    "name": "",
+    "image": "",
+    "clicked": "false"
+  },
+  {
+    "id": 70,
+    "name": "",
+    "image": "",
+    "clicked": "false"
+  },
 ]

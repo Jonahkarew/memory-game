@@ -83,7 +83,7 @@ class App extends Component {
       <Wrapper>
         <div className="container">
         <h1 className="title text-center">Pokemon Memory Game</h1>
-        </div>
+        
         <div className="text-center">Current Score: {this.state.currentScore} ||| Highscore: {this.state.hiScore}</div>
         {
           <div className="row">
@@ -100,8 +100,9 @@ class App extends Component {
               </div>
             )
         })}
-      </div>  
+      </div>
         }
+        </div>
       </Wrapper>
     )
   }
