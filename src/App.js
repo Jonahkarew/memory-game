@@ -24,8 +24,6 @@ class App extends Component {
   
   //method to click and change state of cards
   handleCardClick = cardId => {
-
-    
    
     let isCorrect = false;
 
