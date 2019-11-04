@@ -85,7 +85,7 @@ class App extends Component {
         <h1 className="title text-center">Pokemon Memory Game</h1>
         
         <div className="text-center scoreDiv">Current Score: {this.state.currentScore} ||| Highscore: {this.state.hiScore}</div>
-        <div className='text-center instructionsDiv'>Try click all 151 Pokemon without clicking the same one twice!</div>
+        <div className='text-center instructionsDiv'>Try to click all 151 Pokemon without clicking the same one twice!</div>
         <div className='text-center instructionsDiv'> Click anywhere to start!</div>
         {
           <div className="row">
