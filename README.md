@@ -4,7 +4,7 @@ https://jonahkarew.github.io/memory-game/
 
 ## Motivation
 
-This project was build to practice with react and react states.
+This project was build with react and react states in order to create a memory game in theme with one of my all-time favorite franchises.
 
 ## Tech used
 
